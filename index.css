@@ -1,0 +1,14 @@
+.book_management:hover
+{
+  font-size: 20px;
+  font-weight: bold;
+  color: orange;
+}
+.my_title
+{
+  margin: 2% 2%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 25px;
+  text-transform: uppercase;
+  text-align: center;
+}
